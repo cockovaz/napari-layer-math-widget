@@ -6,3 +6,6 @@ Drag and drop script to open widget inside napari. For common image and label ma
 1. Drag and drop the script onto napari canvas.
 2. Select images / label layers to process in the opened widget.
 3. Choose operation to apply.
+
+### Usage example
+![labels](assets/label_math.png)
